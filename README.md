@@ -8,7 +8,7 @@ To use this github, please head on to 'Issues' and check out the existing sugges
 If you have a suggestion that hasn't been posted, you can certainly make one. For each topic, either say 'Lab' or 'Space' at the start,
 so that we can organise this easier later.
 
-Please also give it a label if you can:
+Please also tell us what label we should apply to it (only contributors canadd labels)
 - **need** for things you think are important
 - **wish** for things which would be nice to have, but you can live without
 - **question** or **discussion** if you just want to post a question or discuss things that are already approved
